@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 <h3 align="left">Stats 📊:</h3>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=archita19&show_icons=true&locale=en" alt="archita19" /></p> -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=archita19&show_icons=true&locale=en&layout=compact" alt="archita19" width="400"/></p> -->
-<div style="display: flex; flex-direction: row; justify-content: center;">
+<div align="center">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archita19&theme=radical&layout=compact" width="41.5%"/>
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=archita19&show_icons=true&theme=radical" width="49.6%"/>
+ &nbsp;&nbsp;&nbsp;<img class="img" src="https://github-readme-stats.vercel.app/api?username=archita19&show_icons=true&theme=radical" width="49.6%"/>
 </div>
 
 
