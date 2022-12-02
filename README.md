@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Stats 📊:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=archita19&show_icons=true&locale=en" alt="archita19" /> &nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=archita19&show_icons=true&locale=en&layout=compact" alt="archita19" width="400" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=archita19&show_icons=true&locale=en&layout=compact" alt="archita19"/></p>
 <!-- <p><</p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archita19&" alt="archita19" /></p>
 
