@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my coding skills**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Web Frameworks**
 
 - 💬 Ask me about **Web Development**
 
